@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+/* .sharedlayout--mainrow{
+  padding-left: 0px !important;
+  margin: 0 !important;
+} */
+
+.sidebar--navbar{
+  background-color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 0;
+  height: 100vh;
+}
